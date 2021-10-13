@@ -1,0 +1,28 @@
+
+.Photo{
+    background-image: url('../images/Profilepic1.jpg');
+}
+.project1{
+    background-image: url('../images/one.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('../images/tpro.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('../images/Note\ Taker.gif');
+    cursor: none;
+}
+.project4{
+    background-image: url('../images/vubs.png');
+    cursor: none;
+}
+.project5{
+    background-image: url('../images/Moar.png');
+    cursor: none;
+}
+.project6{
+    background-image: url('../images/Screenshot\ 2021-10-09\ 034510.png');
+    cursor: none;
+}
