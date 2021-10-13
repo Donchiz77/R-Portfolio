@@ -15,7 +15,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "An aspiring Full Stack developer. That wants to create mind blowing or just down right funny apps. Knowledge is power. ",
+    "An aspiring Full Stack developer. That wants to create a mind blowing or just down right funny apps. Knowledge is power. ",
 };
 
 const skillsBar = [
@@ -101,7 +101,7 @@ const projects = [
 const section5Title = "Holla Atcha Boi";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "Always avalible for a challenge or if you need help.",
   copyright: "Don Chisolm",
   contactUrl: "",
 };
