@@ -101,7 +101,7 @@ const projects = [
 const section5Title = "Holla Atcha Boi";
 const contact = {
   pitch:
-    "Always avalible for a challenge or if you need help.",
+    "Ready to code a wonderful new world.",
   copyright: "Don Chisolm",
   contactUrl: "",
 };
