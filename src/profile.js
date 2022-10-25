@@ -110,7 +110,7 @@ const social = {
   github: "https://github.com/Donchiz77",
   twitter: "https://twitter.com/Don_2C",
   linkedin: "https://www.linkedin.com/in/dontarious-chisolm-672a62143/",
-  resume: "https://docs.google.com/document/d/1hnUBWDH-pnQKkVQDSJ-l7svQlTCDR5BxZ-AIHUwl330/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1axrSvUku0SmyWZ6G9k8HKk6A0-pnNxtL/view?usp=sharing",
 };
 
 export {
